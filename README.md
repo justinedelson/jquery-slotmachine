@@ -20,9 +20,9 @@ jQuery(function($) {
 </script>
 
 <div id="slotMachine1">
-	<img src="image_1.png" height="200"/>
-	<img src="image_2.png" height="100"/>
-	<img src="image_3.png" height="150"/>
+	<a href="#"><img src="image_1.png" height="200"/></a>
+	<a href="#"><img src="image_2.png" height="100"/></a>
+	<a href="#"><img src="image_3.png" height="150"/></a>
 </div>
 
 ```
